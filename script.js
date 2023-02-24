@@ -96,3 +96,5 @@ for (let i = 0; i < choosedEl.length; i++) {
     choosedEl[i].addEventListener("click", eventFunc)
 }
 choosedEl[2].removeEventListener("click", eventFunc)
+
+
